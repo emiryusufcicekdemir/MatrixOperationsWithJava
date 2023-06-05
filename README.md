@@ -1,16 +1,17 @@
 # MatrixOperationsWithJava
 
 Java project that provides the following operations on the matrix :
+
 Addition
 
-subtraction
+Subtraction
 
 Multiplication
 
-Multiplication with a constant
+Multiplication with a Constant
 
-Determinant calculation
+Determinant Calculation
 
-Getting the inverse of the matrix
+Getting the Inverse of the Matrix
 
-Involutive review
+Involutive Review
